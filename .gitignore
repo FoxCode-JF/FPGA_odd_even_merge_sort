@@ -1,3 +1,16 @@
+db/
+incremental_db/                                                                                                                                              
+output_files/                                                                                                                                                
+simulation/
+
+*.qpf
+*.qsf
+
+*.rpt                                                                                                                        
+*.bak                                                                                                                                        
+                                                                                                                                            
+*.json                                                                                                                                              
+
 # Prerequisites
 *.d
 
